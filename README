@@ -12,6 +12,7 @@ based on CodeIgniter PHP Framework and CKEditor javascript online editor.
 How to setup a new website from a given Wikid (what should I change)
 --------------------------------------------------------------------
 -> edit /wikid.config.php
+-> edit /wikid.config.js
 -> set RewriteBase in /.htaccess
 
 

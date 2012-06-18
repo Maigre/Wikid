@@ -14,7 +14,7 @@ Matthias IMBERT
 
 Open Source License
 ------------------------------------------------------------------------------------------
-This version of AirGestion is licensed under the terms of the Open Source GPL 3.0 license. 
+This version of WIKID Website Managment System is licensed under the terms of the Open Source GPL 3.0 license. 
 
 http://www.gnu.org/licenses/gpl.html
 
@@ -23,23 +23,27 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 without even the implied warranty of MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS.  
 See the GNU General Public License for more details.
 
-IMPORTANT : AirGestion includes Ellis Lab's CodeIgniter PHP framework
+IMPORTANT : WIKID distribution includes 
+- Ellis Lab's CodeIgniter PHP framework
+- CKSource's CKEditor javascript online editor
 Please consult associated licenses for those products.
 
 
 Licence Open-Source
 ------------------------------------------------------------------------------------------
-Cette version de AirGestion est distribué sous les termes de la licence Open Source GPL 3.0 
+Cette version de WIKID Website Managment System est distribué sous les termes de la licence Open Source GPL 3.0 
 
 http://www.gnu.org/licenses/gpl.html (anglais)
 http://org.rodage.com/gpl-3.0.fr.html (version française non officielle)
 
 
-IMPORTANT : AirGestion est livré avec Ellis Lab's CodeIgniter PHP framework
+IMPORTANT : WIKID est livré avec 
+- Ellis Lab's CodeIgniter PHP framework
+- CKSource's CKEditor javascript online editor
 Veuillez consulter leurs licenses respectives.
 
 
-
+------------------------------------------------------------------------------------------
 Extrait de la version française de la licence GNU GPL 3.0:
 
 Article 15. Déclaration d’absence de garantie.
