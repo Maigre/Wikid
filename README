@@ -1,2 +1,32 @@
 
-Supor
+WIKID is a website managment system 
+based on CodeIgniter PHP Framework and CKEditor javascript online editor.
+
+-> /licenses/ folder contains a copy of every licenses and copyrights involved in this application
+-> /system/ folder contains CI system files
+-> /application/ folder contains CKEditor files (in 3rdparty subfolder) and all Wikid files
+-> /index.php file is the CI front controller
+-> /wikid.config.php file contains specific config for a WKD website
+
+
+How to setup a new website from a given Wikid (what should I change)
+--------------------------------------------------------------------
+-> edit /wikid.config.php
+-> set RewriteBase in /.htaccess
+
+
+
+Main changes in CKEditor (watch out on update)
+----------------------------------------------
+//TODO
+
+
+
+Main changes in CodeIgniter (watch out on update)
+-------------------------------------------------
+-> /application/config/config.php (require wikid.config.php)
+-> /application/config/database.php (require wikid.config.php)
+-> /application/config/autoload.php
+-> /.htaccess (mode rewrite)
+
+
